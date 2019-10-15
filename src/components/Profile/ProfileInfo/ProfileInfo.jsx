@@ -8,7 +8,7 @@ const ProfileInfo = (props) => {
         <img src="https://im0-tub-ru.yandex.net/i?id=1aafc98470cb970f10d1676b4bd4e3ef-l&n=13" alt=""></img>
       </div>
       <div className={s.descriptionBlock}>
-        Урок 39
+        Урок 45
         ava+description
       </div>
     </div>
